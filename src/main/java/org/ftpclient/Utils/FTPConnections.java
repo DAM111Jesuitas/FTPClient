@@ -56,7 +56,7 @@ public abstract class FTPConnections
             throw new RuntimeException(e);
         }
 
-        System.out.println("Desconectado.");
+        System.out.println("Desconectado");
     }
 
     public static void connectToServer(String server, String user, String pass) {

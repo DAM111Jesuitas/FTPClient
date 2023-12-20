@@ -8,5 +8,6 @@ public enum eComandos
     exit,
     clear,
     pwd,
+    get,
     prueba
 }
